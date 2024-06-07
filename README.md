@@ -1,5 +1,4 @@
 # Syria-Customer-churn-project
- 
 CUSTOMER PREDICTION FOR SYRIATel
 1. Business Understanding
 Overview
